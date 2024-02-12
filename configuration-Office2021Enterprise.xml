@@ -1,0 +1,42 @@
+<!-- Office 2021 enterprise client configuration file sample. To be used for Office 2021 
+     enterprise volume licensed products only, including Office 2021 Professional Plus,
+     Visio 2021, and Project 2021.
+
+     Do not use this sample to install Office 365 products.
+
+     For detailed information regarding configuration options visit: http://aka.ms/ODT. 
+     To use the configuration file be sure to remove the comments
+
+     The following sample allows you to download and install Office 2021 Professional Plus,
+     Visio 2021 Professional, and Project 2021 Professional directly from the Office CDN.
+
+     This configuration file will remove all other Click-to-Run products in order to avoid
+     product conflicts and ensure successful setup.
+ -->
+
+
+
+<Configuration>
+
+  <Add OfficeClientEdition="64" Channel="PerpetualVL2021">
+    <Product ID="ProPlus2021Volume">
+      <Language ID="en-us" />
+      <ExcludeApp ID="Lync" />
+    </Product>
+    <Product ID="VisioPro2021Volume">
+      <Language ID="en-us" />
+    </Product>
+    <Product ID="ProjectPro2021Volume">
+      <Language ID="en-us" />
+    </Product>
+  </Add>
+
+  <Remove All="True" />
+
+  <!--  <RemoveMSI All="True" /> -->
+
+  <!--  <Display Level="None" AcceptEULA="TRUE" />  -->
+
+  <!--  <Property Name="AUTOACTIVATE" Value="1" />  -->
+
+</Configuration>
