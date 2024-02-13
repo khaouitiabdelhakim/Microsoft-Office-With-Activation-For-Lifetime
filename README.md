@@ -5,7 +5,7 @@
 2. Wait until the installation is finished.
 
 ### Step 2:
-1. Run `activator.cmd` as administrator.
+1. Run `Activator.cmd` as administrator.
 2. Follow the steps to activate Microsoft Office.
 
 **Note:** All files are scanned for viruses, so no worries.
