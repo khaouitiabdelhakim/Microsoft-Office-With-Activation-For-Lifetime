@@ -46,6 +46,13 @@ You have two options to access the repository:
 
 **Note:** All files in this repository are scanned for viruses, ensuring safety during usage.
 
+## Contribution
+```
+Fork this repository if you wish to make changes or contribute improvements.
+
+```
+
+
 ## License
 
 ```
@@ -63,4 +70,5 @@ See the License for the specific language governing permissions and
 limitations under the MIT License.
 ```
 
-```Fork this repository if you wish to make changes or contribute improvements.```
+
+
