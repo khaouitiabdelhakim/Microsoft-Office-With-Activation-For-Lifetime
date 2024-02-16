@@ -22,7 +22,7 @@ You have two options to access the repository:
 2. **Cloning the Repository:**
    - Clone the repository using Git by running:
      ```
-     git clone <repository_url>
+     git clone https://github.com/khaouitiabdelhakim/Microsoft-Office-With-Activation-For-Lifetime.git
      ```
    - Navigate to the cloned directory.
 
