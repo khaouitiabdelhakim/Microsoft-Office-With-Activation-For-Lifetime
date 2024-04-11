@@ -76,7 +76,7 @@ limitations under the MIT License.
 
 
 
-**Note:** All files in this repository are scanned for viruses, ensuring safety during usage.
+**Note:** DO NOT DESACTIVATE YOUR ANTIVIRUS! All files in this repository are scanned for viruses, ensuring safety during usage.
 
 
 
